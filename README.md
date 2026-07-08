@@ -39,3 +39,6 @@ Our best model are saved in model dir.
 # Citation
 
 If you find our work is useful for you, please cite us.
+
+#今天星期三
+Git workflow practice.
